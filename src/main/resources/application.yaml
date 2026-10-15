@@ -1,6 +1,6 @@
 spring:
   application:
-    name: spring.lw4
+    name: spring.lw5
 server:
   port: 8084
 

@@ -1,4 +1,4 @@
-package ru.trickluan.spring.lw4;
+package ru.trickluan.spring.lw5;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

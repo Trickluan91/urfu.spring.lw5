@@ -1,4 +1,4 @@
-package ru.trickluan.spring.lw4.util;
+package ru.trickluan.spring.lw5.util;
 
 import java.text.SimpleDateFormat;
 
